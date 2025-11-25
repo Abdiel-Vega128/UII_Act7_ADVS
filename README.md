@@ -1,6 +1,7 @@
 # UII_Act7_ADVS
 <img width="1171" height="602" alt="image" src="https://github.com/user-attachments/assets/049b0a5b-5864-4315-b0f3-47ab8402043e" />
-# Models.py
+Models.py
+
 from django.db import models
 
 class Dueno(models.Model):
