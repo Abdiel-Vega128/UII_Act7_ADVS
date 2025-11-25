@@ -1,5 +1,6 @@
 # UII_Act7_ADVS
-<img width="1171" height="602" alt="image" src="https://github.com/user-attachments/assets/049b0a5b-5864-4315-b0f3-47ab8402043e" />
+<img width="1049" height="486" alt="image" src="https://github.com/user-attachments/assets/4579d6e7-6ded-41a7-9173-2a1cec231a35" />
+
 Models.py
 
 from django.db import models
